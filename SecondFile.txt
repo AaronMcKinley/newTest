@@ -1,1 +1,2 @@
 This is the second file made
+This is going to cause a merge conflict
