@@ -1,3 +1,7 @@
 This is the second file made
+<<<<<<< HEAD
 This is an edit
 
+=======
+This is going to cause a merge conflict
+>>>>>>> feature1
